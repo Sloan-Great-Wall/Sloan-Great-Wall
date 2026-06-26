@@ -1,6 +1,10 @@
 # Sloan GW
 
-Personal systems, AI alignment tools, and experimental knowledge infrastructure.
+GitHub profile README and identity pointer for Sloan GW.
+
+The canonical personal website is https://sloangw.com, served by
+`sloangw-site`. That site owns downloads, account and service entry,
+VPN/private beta entry, and future Fracta/Holon public entry.
 
 ## Active Work
 
@@ -11,6 +15,9 @@ Personal systems, AI alignment tools, and experimental knowledge infrastructure.
 
 ## Public Entry
 
-- Site: https://sloangw.com
-- GitHub Pages: https://sloan-great-wall.github.io
+- Canonical site: https://sloangw.com
+- GitHub Pages pointer: https://sloan-great-wall.github.io
 
+This repository should stay a profile README pointer only. Do not add account
+logic, service credentials, VPN/private beta implementation, hosted Holon
+logic, or product-site implementation here.

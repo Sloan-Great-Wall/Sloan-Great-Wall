@@ -21,3 +21,5 @@ VPN/private beta entry, and future Fracta/Holon public entry.
 This repository should stay a profile README pointer only. Do not add account
 logic, service credentials, VPN/private beta implementation, hosted Holon
 logic, or product-site implementation here.
+
+<!-- Developer entry: AGENTS.md. -->
